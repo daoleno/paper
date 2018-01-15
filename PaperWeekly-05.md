@@ -20,8 +20,7 @@
 
 [Golang web server](https://gist.github.com/enricofoltran/10b4a980cd07cb02836f70a4ab3e72d7?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
 
-> A simple golang web server with basic logging, tracing, health check, graceful shutdown and zero dependencies
-Raw
+> A simple golang web server with basic logging, tracing, health check, graceful shutdown and zero dependencies.
 
 [Postgres Internals: Building a Description Tool](https://www.dataquest.io/blog/postgres-internals/)
 
