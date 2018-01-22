@@ -7,7 +7,7 @@
 > It was brought to my attention recently that there is a dearth of introductory educational material available about modern network load balancing and proxying. 
 
 [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-> The fastest way to learn how Blockchains work is to build o
+> The fastest way to learn how Blockchains work is to build one.
 
 [mocker](https://github.com/tonybaloney/mocker)
 
