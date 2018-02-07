@@ -1,3 +1,6 @@
+[TCP Puzzlers](https://www.joyent.com/blog/tcp-puzzlers)
+> It's been said that we don't really understand a system until we understand how it fails. Despite having written a (toy) TCP implementation in college and then working for several years in industry, I'm continuing to learn more deeply how TCP works — and how it fails. 
+
 [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
 > So you're curious in learning this new thing called Reactive Programming, particularly its variant comprising of Rx, Bacon.js, RAC, and others.
 
