@@ -1,4 +1,5 @@
-[Open Source Guides](https://opensource.guide/)
+[Open Source Guides](https://opensource.guide/)  
+[开源指南-中文版本](https://ocselected.github.io/open-source-guide/how-to-contribute/)
 >Open source software is made by people just like you. Learn how to launch and grow your project.
 
 [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
