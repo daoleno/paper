@@ -1,0 +1,2 @@
+[The real cause of large DDoS - IP Spoofing](https://blog.cloudflare.com/the-root-cause-of-large-ddos-ip-spoofing/#fn2)
+> All the gigantic headline-grabbing attacks are what we call "L3" (Layer 3 OSI[1]). This kind of attack has a common trait - the malicious software sends as many packets as possible onto the network. For greater speed these packets are hand crafted by attackers - they are not generated using high-level, well-behaved libraries. Packets are mashed together as a series of bytes and fired onto the network to inflict the greatest damage.
