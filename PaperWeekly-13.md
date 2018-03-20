@@ -8,7 +8,7 @@
 > Programming languages and compilers used to have a reputation for being one of the most complex topics in computer science. I think that reputation persists, but only because the topic is pretty much infinitely deep, especially where programming languages are concerned.
 
 [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-> Git 堪称版本控制瑞士军刀。这个可靠、多才多艺、用途多样的校 订工具异常灵活，以致不易掌握，更别说精通了。
+> Git 堪称版本控制瑞士军刀。这个可靠、多才多艺、用途多样的校订工具异常灵活，以致不易掌握，更别说精通了。
 
 [Tail Recursion In Python](http://chrispenner.ca/posts/python-tail-recursion)
 > Some programming languages are tail-recursive, essentially this means is that they're able to make optimizations to functions that return the result of calling themselves. That is, the function returns only a call to itself.
