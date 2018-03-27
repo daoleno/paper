@@ -10,6 +10,9 @@
 [A Deep Dive into Database Attacks - Part III: Why Scarlett Johansson’s Picture Got My Postgres Database to Start Mining Monero](https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/)
 > Like so many attacks we’ve witnessed lately, it ended up with the attacker utilizing the server’s resources for cryptomining Monero. As if this wasn’t enough, the attack vector was a picture of Scarlett Johannsson. Alright then. Let’s take a deep dive into the attack!
 
+[PYTHON – WRITING FUNCTIONS – COMPLETE GUIDE](http://devarea.com/python-writing-functions-complete-guide/#.Wrm6aXU_W03)
+> Writing Python code is fun and easy. You can use Procedural programming, Functional programming , Object oriented programming or any combination.  Functions are basic unit in any method you choose.
+
 [You're Doing It Wrong](https://queue.acm.org/detail.cfm?id=1814327)
 > Think you've mastered the art of server performance? Think again.
 
