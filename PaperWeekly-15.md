@@ -13,3 +13,8 @@
 [Callback Hell](http://callbackhell.com/)
 > A guide to writing asynchronous JavaScript programs
 
+[Running Java in a Container](https://mesosphere.com/blog/java-container/)
+> What are the pitfalls of running Java or JVM-based applications in containers? In this article, Jörg Schad and Ken Sipe discuss the challenges and solutions.
+
+[Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
+> This cheatsheet is intended to run down the typical steps performed when conducting a web application penetration test. I will break these steps down into sub-tasks and describe the tools I recommend using at each level.
