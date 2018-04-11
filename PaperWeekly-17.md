@@ -1,0 +1,2 @@
+[Productivity](https://blog.samaltman.com/productivity)
+> I think I am at least somewhat more productive than average, and people sometimes ask me for productivity tips.  So I decided to just write them all down in one place.
