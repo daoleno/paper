@@ -1,5 +1,4 @@
 [Ask HN: What open source project, in your opinion, has the highest code quality?](https://news.ycombinator.com/item?id=18037613&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
-> 
 
 [Towards Natural Language Semantic Code Search](https://githubengineering.com/towards-natural-language-semantic-code-search/)
 > Searching code on GitHub is currently limited to keyword search. 
