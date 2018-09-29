@@ -1,0 +1,2 @@
+[Lifetime profile v1.0 posted](https://herbsutter.com/2018/09/20/lifetime-profile-v1-0-posted/)
+> I love C++. I also love safe code and not having to worry about dangling pointers and iterators and views. 
